@@ -1,15 +1,15 @@
-# Análise de problemas em pontos de venda
+# AnÃ¡lise de problemas em pontos de venda
 
-Um software simples que através do processamento de dados coletados em pontos de venda gera informações estratégicas para empresas de trade-marketing.
+Um software simples que atravÃ©s do processamento de dados coletados em pontos de venda gera informaÃ§Ãµes estratÃ©gicas para empresas de trade-marketing.
 
 ## Como funciona
 
-Esse projeto busca dados dos pontos de venda através do endereço `http://selecao-involves.agilepromoter.com/pesquisas` e transforma os mesmos em informações estratégicas. Essas informações são salvas em um banco de dados para posterior análise.
+Esse projeto busca dados dos pontos de venda atravÃ©s do endereÃ§o `http://selecao-involves.agilepromoter.com/pesquisas` e transforma os mesmos em informaÃ§Ãµes estratÃ©gicas. Essas informaÃ§Ãµes sÃ£o salvas em um banco de dados para posterior anÃ¡lise.
 
-**Atenção: Você precisa do Mongo DB instalado e rodando para prosseguir**
-```
+**AtenÃ§Ã£o: VocÃª precisa do Mongo DB instalado e rodando para prosseguir**
+
 1. Rode o sistema
 ``` 
 gradlew bootRun
 ```
-3. Abra o navegador em `http://localhost:8080/alertas/pesquisas` para que o dados das lojas sejam processados. 
+2. Abra o navegador em `http://localhost:8080/alertas/pesquisas` para que o dados das lojas sejam processados. 
