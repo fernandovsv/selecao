@@ -18,10 +18,8 @@
 *.ipr
 /out/
 
-### NetBeans ###
-/nbproject/private/
-/build/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Compiled class file
+*.class
+
+# Log file
+*.log
