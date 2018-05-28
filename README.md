@@ -12,4 +12,4 @@ Esse projeto busca dados dos pontos de venda através do endereço `http://selec
 ``` 
 gradlew bootRun
 ```
-2. Abra o navegador em `http://localhost:8080/alertas/pesquisas` para que o dados das lojas sejam processados. 
+2. Abra o navegador em `http://localhost:8080/alertas/processar` para que o dados das lojas sejam processados. 
